@@ -1,8 +1,8 @@
 Package: spiderbar
 Type: Package
 Title: Parse and Test Robots Exclusion Protocol Files and Rules
-Version: 0.2.0
-Date: 2017-09-23
+Version: 0.2.1
+Date: 2017-11-17
 Author: Bob Rudis (bob@rud.is) [aut, cre], SEOmoz, Inc [aut]
 Maintainer: Bob Rudis <bob@rud.is>
 Description: The 'Robots Exclusion Protocol' <http://www.robotstxt.org/orig.html> documents
@@ -19,6 +19,6 @@ Depends: R (>= 3.2.0)
 Imports: Rcpp
 RoxygenNote: 6.0.1
 LinkingTo: Rcpp
-Packaged: 2017-09-24 13:07:11 UTC; bob
+Packaged: 2017-11-17 12:10:32 UTC; bob
 Repository: CRAN
-Date/Publication: 2017-09-25 08:24:55 UTC
+Date/Publication: 2017-11-17 12:40:19 UTC

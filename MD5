@@ -1,4 +1,4 @@
-c467d6d3e8d13a5ab5203b4bd6113ef1 *DESCRIPTION
+3b2cb650d526e03567a2008cf02dab4f *DESCRIPTION
 9e30f576f8e7741788645dfddcb1822d *LICENSE
 bfaee5cca21bfb972ea4cb82080e0faa *NAMESPACE
 7582c97f390ee769f965df5df073e112 *NEWS.md
@@ -36,4 +36,4 @@ eed673945dc3ce9aba80662f620b308e *src/url.h
 0171bcec6115504b605abaaecb63ad4a *src/utf8.cpp
 c7ab32d6116992bd987518fb8f1bd470 *src/utf8.h
 f87345c39c21ed418a0caeec556cd629 *tests/test-all.R
-488023044ebd181981d47a3a59e46e9a *tests/testthat/test-spiderbar.R
+ce0406349ecf45b3963895ca8f2bef1d *tests/testthat/test-spiderbar.R
