@@ -1,4 +1,4 @@
-3b2cb650d526e03567a2008cf02dab4f *DESCRIPTION
+7cb2e017dae7e1017c92d10f37cfe0a3 *DESCRIPTION
 9e30f576f8e7741788645dfddcb1822d *LICENSE
 bfaee5cca21bfb972ea4cb82080e0faa *NAMESPACE
 7582c97f390ee769f965df5df073e112 *NEWS.md
@@ -6,8 +6,7 @@ c240d2aca00e1666022590875e19bf4e *R/RcppExports.R
 2e6edd5849102601b35f8cee5b66f527 *R/can-fetch.r
 3c2789709da7a43230493c56ad30b348 *R/crawl-delay.r
 022199e9a6f3ee7ecf15d26c7a07454f *R/robxp.r
-3bef450d72d8dfc4c9fc1a14707d181b *R/spiderbar-package.R
-14c2788c3a28c699cb3b7e81d393b8b9 *README.md
+4eedb742310a2f26324c83e1904f46f8 *R/spiderbar-package.R
 7a58b13412a11e1c8650008ae15f2bef *inst/extdata/cdc-robots.txt
 942d135008891baac21b57b919d8b842 *inst/extdata/github-robots.txt
 36d9a08c3766901f00d4fb1003849244 *inst/extdata/imdb-robots.txt
@@ -17,7 +16,7 @@ b03c30fd553878fce698924ee1eca06e *inst/extdata/wikipedia-robots.txt
 3de485ace8b167ebf29512552c4182a1 *man/print.robxp.Rd
 80cdac3faec04192606d6d6e1d4af54c *man/robxp.Rd
 b5760dae5be949f1a6b6159224bbe5c4 *man/sitemaps.Rd
-7496add1231ff35c70fdf66b1ae15d12 *man/spiderbar.Rd
+f2135f826dddecf54f94563e9c355530 *man/spiderbar.Rd
 d70cae1643a23ac2477a9ce7024ba50f *src/Makevars
 6b22499c169c4c3bb0936dbd73cf9739 *src/RcppExports.cpp
 d8535e965d61bdec16b80d859736cd02 *src/agent.cpp
@@ -29,7 +28,7 @@ d8535e965d61bdec16b80d859736cd02 *src/agent.cpp
 3cebe3208e492ee02ffd7175f6767663 *src/punycode.cpp
 5b26902a1d95b41df31f31aae7ba0e8a *src/punycode.h
 29186a5a2224e7fdb73abd98dabc68a7 *src/repmain.cpp
-c1568f5a1b6810961eef7b7f68f2e596 *src/robots.cpp
+3fc3e00cc54d89f0a5a2e33a3810769e *src/robots.cpp
 f6e9136e48b6161cb90e015617b1b4f1 *src/robots.h
 ccc275cd86b87bb7f302a18957d8b7b2 *src/url.cpp
 eed673945dc3ce9aba80662f620b308e *src/url.h
