@@ -9,6 +9,7 @@
 #' @param path path to test
 #' @param user_agent user agent to test
 #' @export
+#' @return logical vector indicating whether you have permission to fetch the content
 #' @examples
 #' gh <- paste0(readLines(system.file("extdata", "github-robots.txt",
 #'              package="spiderbar")), collapse="\n")
@@ -22,7 +23,7 @@
 can_fetch <- function(obj, path = "/", user_agent = "*") {
 
   if (inherits(obj, "robxp")) {
-    vapply(path, rep_path_allowed, logical(1), x=obj, agent=user_agent, USE.NAMES=FALSE)
+    vapply(path, rep_path_allowed, logical(1), xp=obj, agent=user_agent, USE.NAMES=FALSE)
   } else {
     return(NULL)
   }
