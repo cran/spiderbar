@@ -4,6 +4,7 @@
 #include <sstream>
 #include <unordered_map>
 #include <vector>
+#include <cstdint>
 
 #include "agent.h"
 

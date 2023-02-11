@@ -8,6 +8,8 @@
 #include <unordered_set>
 #include <stdexcept> // added by dmi3kno 2021-05-21
 #include <limits> // added by dmi3kno 2021-05-21
+#include <cstdint>
+
 #include "utf8.h"
 
 namespace Url

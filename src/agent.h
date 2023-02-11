@@ -2,6 +2,7 @@
 #define AGENT_CPP_H
 
 #include <vector>
+#include <cstdint>
 
 #include "directive.h"
 
